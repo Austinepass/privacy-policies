@@ -26,7 +26,7 @@ Cookies are files with a small amount of data that are commonly used as anonymou
 
 This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
-##Service Providers
+## Service Providers
 
 I may employ third-party companies and individuals due to the following reasons:
 
@@ -49,7 +49,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 In the event that you delete your account, all associated data generated within the application will be deleted as well.
 
 
-**Children’s Privacy**
+## Children’s Privacy
 
 These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
 
